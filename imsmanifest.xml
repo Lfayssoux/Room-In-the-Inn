@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5tC1PiXTu5Y_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Room In the Inn</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Room_In_the_Inn_ORG">
+    <organization identifier="Room_In_the_Inn_ORG">
+      <title>Room In the Inn</title>
+      <item identifier="Room_In_the_Inn_SCO" isvisible="true" identifierref="__5tC1PiXTu5Y_course_id_RES">
+        <title>Room In the Inn</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5tC1PiXTu5Y_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6TNvq0lDp1t_80_DX680_DY680_CX535_CY412.png" />
+      <file href="mobile/6ev0FF7HOt1_80_P_0_0_1069_508_DX1016_DY1016_CX601_CY286.png" />
+      <file href="mobile/6TQ9MyOr1uj_80_DX828_DY828_CX651_CY502.png" />
+      <file href="mobile/6YO1wdGSBE4_80_DX1118_DY1118_CX879_CY773.png" />
+      <file href="mobile/5yHiMrvmMId_80_DX304_DY304_CX239_CY239.jpg" />
+      <file href="mobile/5wDJ6wYsc6U_80_DX1920_DY1920_CX1201_CY849.jpg" />
+      <file href="mobile/6TQ9MyOr1uj_80_DX828_DY828_CX481_CY371.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5h8cwKGEwB1.js" />
+      <file href="html5/data/js/5nAQLlvDDiT.js" />
+      <file href="html5/data/js/5tH5hQjLHhT.js" />
+      <file href="html5/data/js/5wP9nM0F81u.js" />
+      <file href="html5/data/js/5yK8Coxlydv.js" />
+      <file href="html5/data/js/63fih0pki4e.js" />
+      <file href="html5/data/js/643lkqiK3g2.js" />
+      <file href="html5/data/js/6FdfbECiliW.js" />
+      <file href="html5/data/js/6fDqfJWJQCu.js" />
+      <file href="html5/data/js/6FH44Mf2sHh.js" />
+      <file href="html5/data/js/6GDesAkgR5O.js" />
+      <file href="html5/data/js/6jlLUxv62aA.js" />
+      <file href="html5/data/js/6oBbLRGlHw9.js" />
+      <file href="html5/data/js/6PUJDywvJUE.js" />
+      <file href="html5/data/js/6rBTslNFg9J.js" />
+      <file href="html5/data/js/6TMFBdAUgMB.js" />
+      <file href="html5/data/js/6UoOID7oc3h.js" />
+      <file href="html5/data/js/6VBvzKlCJkI.js" />
+      <file href="html5/data/js/6YtcspV8RzA.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/LICENSE.txt" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
